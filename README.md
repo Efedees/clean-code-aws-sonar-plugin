@@ -1,5 +1,5 @@
 ## Clean Code with AWS and Sonar CloudFormation plugin
-
+🚀 First Git test by Divine – learning Git like a legend!
 This CloudFormation template simplifies the integration of SonarQube or SonarCloud with AWS CodeBuild and AWS CodePipeline.
 
 In the spirit of "shift-left" we want to run code analysis as early as possible in the development workflow. This entails triggering Sonar code analysis not only on AWS CodePipeline builds of the `main` branch but also when Pull Requests (PR) are created or updated (typically after a round of reviews).
