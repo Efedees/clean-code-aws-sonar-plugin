@@ -1,0 +1,7 @@
+organization=efedees
+projectKey=Efedees_clean-code-aws-sonar-plugin
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.64597
+dashboardUrl=https://sonarcloud.io/dashboard?id=Efedees_clean-code-aws-sonar-plugin
+ceTaskId=AZeHnRFxLNYBM6qXqqaF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZeHnRFxLNYBM6qXqqaF
